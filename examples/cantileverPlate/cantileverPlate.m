@@ -9,6 +9,7 @@ nu = 0.0 ;
 tz = .05 ;
 q  = 1e3 ; % 1kN/m^2 
 %md
+
 Ly = .5;
 Lx = 1 ;
 %md## Numerical solution using plate elements
